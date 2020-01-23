@@ -5,3 +5,7 @@ Created on Thu Jan 23 14:26:18 2020
 @author: laure
 """
 
+deffunc(a, b):
+    return a + b
+
+
